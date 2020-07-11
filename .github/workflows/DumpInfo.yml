@@ -20,4 +20,4 @@ jobs:
     # Runs a single command using the runners shell
     - name: test
       id: test
-      uses: VarChar42/MyFirstCustomGitAction@v2
+      uses: VarChar42/MyFirstCustomGitAction
